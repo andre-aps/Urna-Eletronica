@@ -32,7 +32,7 @@ Agora é só votar!
 ![urna](https://user-images.githubusercontent.com/37241913/73704655-7fd58e80-46d2-11ea-899e-a419a8bcc8da.png)
 
 ## Versão
-Consulte as [tags neste repositório](https://github.com/andre-aps/Restaurante/tree/v1.0).
+Consulte as [tags neste repositório](https://github.com/andre-aps/Urna-Eletronica/tree/v1.0).
 
 ## Autor
 <b> André Pereira da Silva </b> | [LinkedIn](https://www.linkedin.com/in/andre-aps)
