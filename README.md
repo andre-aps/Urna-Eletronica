@@ -1,4 +1,7 @@
 # Projeto Urna Eletrônica
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/urna-eletronica)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/urna-eletronica)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/urna-eletronica)
 
 O projeto Urna Eletrônica foi desenvolvido utilizando a linguagem de programação C# e permite simular votos aos candidatos à presidência da república na eleição que ocorreu em 2018.
 
